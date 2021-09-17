@@ -43,7 +43,6 @@
      <img height="37em" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <br>
      <img height="37em" src="https://img.shields.io/badge/Linux-d3d3d3?style=for-the-badge&logo=linux&logoColor=black"/>
       <img height="37em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
     </p>
