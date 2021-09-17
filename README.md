@@ -45,6 +45,8 @@
       <img height="37em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
      <img height="37em" src="https://img.shields.io/badge/Linux-d3d3d3?style=for-the-badge&logo=linux&logoColor=black"/>
       <img height="37em" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <br>
+    <img height="37em" src="https://img.shields.io/badge/Spring Tool Suite-008000?style=for-the-badge&logo=spring&logoColor=white"/>
     </p>
     
 <br>
