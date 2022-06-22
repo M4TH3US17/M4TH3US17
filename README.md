@@ -1,4 +1,3 @@
-<!-- <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, i'm Igor</h1></img> -->
 <h1> Hi, I'm Matheus! 😃 </h1>
 <div>    
   <a href="https://mail.google.com/mail/u/?authuser=matheusdalvino50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -6,11 +5,7 @@
     <a href="https://www.linkedin.com/in/matheus-dalvino-478400207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
-<p>👨‍💻 Um dia a gente vai conseguir o código fonte, então mudaremos o mundo!!! 🌎</p>
-<p>👨‍💻 Desenvolvimento Back-end ♥</p>
-<p>🎈 Software Livre ❤</p>
--->
+<section><a href="#"><img align="right" alt="Bunny" height="50" style="border-radius:50px" src="./assets/gif/bunny.gif"   style="cursor:none"></a></section>
 
 ### About me
 I'm a {**BACKEND**, frontend} - backend developer.
